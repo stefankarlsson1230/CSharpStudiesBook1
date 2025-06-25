@@ -2,7 +2,7 @@
 Training projects from ChatGPT
 
 ## Chapter 1: Hello, C#! Welcome, .NET!
-- [ ] Project 1: Console "Hello World" Customizer
+- [X] Project 1: Console "Hello World" Customizer
     - Goal: Build a minimal console app that asks for user name and greets them.
     - Skills: Setting up projects, running code in Visual Studio/VS Code.
     - Specs:
