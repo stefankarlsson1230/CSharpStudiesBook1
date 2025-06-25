@@ -1,4 +1,4 @@
-# C# Studies Book1 - C# 13 and .NET 9  Modern Cross-Platform Development Fundamentals
+# C# Studies Book 1 - C# 13 and .NET 9  Modern Cross-Platform Development Fundamentals
 
 These projects are suggestions from ChatGPT based on chapter titles. 
 Most of them are somehow connected to tabletop roleplaying games.
