@@ -1,14 +1,22 @@
 ﻿# Book 1 - C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals
 Training projects from ChatGPT
 
-## Chapter 1: Hello, C#! Welcome, .NET!
-- [X] Project 1: Console "Hello World" Customizer
+## Chapter 1A: Hello, C#! Welcome, .NET!
+- [ ] Project 1: Console "Hello World" Customizer
     - Goal: Build a minimal console app that asks for user name and greets them.
     - Skills: Setting up projects, running code in Visual Studio/VS Code.
     - Specs:
         - User inputs their name.
         - App displays “Hello, {name}! Welcome to .NET 9!”
         - Run via terminal/command line.
+
+- [ ] Projekt 1B: ”Hello Adventurer” 
+   - Goal: Make a simple "Hello, adventurer!" program that outputs a name and a randomly generated starting attribute. 
+   - Specs: 
+    - Ask for adventurer's name.
+    - Randomly assign a starting Strength/Intelligence/Dexterity attribute (1–20).
+    - Display a message: "Hello, {name} the adventurer! You start with {attribute} strength."
+    - Could use Random class.
 
 ## Chapter 2: Speaking C#
 - [ ] Project 2: Number Guessing Game
