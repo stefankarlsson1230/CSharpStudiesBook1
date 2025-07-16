@@ -8,7 +8,8 @@ Training projects from ChatGPT
    - Specs:
      - User inputs their name.
      - App displays “Hello, {name}! Welcome to .NET 9!”
-     - Run via terminal/command line.
+     - Run via terminal/command line.  
+     
 
 - [ ] Projekt 1B: ”Hello Adventurer” 
    - Goal: Make a simple "Hello, adventurer!" program that outputs a name and a randomly generated starting attribute.
@@ -60,9 +61,11 @@ Training projects from ChatGPT
     - Goal: Build a simple menu with switch-case allowing the user to choose between different adventures.
     - Specs:
       - Present options like:
-      -     1. Go to the forest
-      -     2. Enter the dungeon
-      -     3. Visit the market
+      ```
+        1. Go to the forest
+        2. Enter the dungeon
+        3. Visit the market
+      ```
      - Use while loop for menu repetition.
      - Use switch to handle choice.
 
@@ -71,36 +74,27 @@ Training projects from ChatGPT
 
 
 ## Chapter 4: Functions, Debugging, and Unit Testing
-Project 4A: Tip Calculator
-    • Goal: Use functions for code reuse, practice debugging.
-    • Specs:
-        ◦ Input bill total and tip percentage.
-        ◦ Function to calculate tip and total.
-        ◦ Unit tests to verify calculation function.
+- [ ] Project 4A: Tip Calculator
+  - Goal: Use functions for code reuse, practice debugging.
+  - Specs:
+    - Input bill total and tip percentage.
+    - Function to calculate tip and total.
+    - Unit tests to verify calculation function.
 
-Projekt 4B
-    • Goal: Write functions to create characters, roll dice (D20, D6 etc.), and calculate battle points. 
-    • Specs: 
-        ◦ Function for dice rolls: RollDice(int sides)
-        ◦ Character generator with random stats
-        ◦ Simple battle simulator: total battle points = Strength + Weapon Damage + Dice roll.
+- [ ] Projekt 4B
+  - Goal: Write functions to create characters, roll dice (D20, D6 etc.), and calculate battle points.
+  - Specs:
+    - Function for dice rolls: RollDice(int sides)
+    - Character generator with random stats
+    - Simple battle simulator: total battle points = Strength + Weapon Damage + Dice roll.
 
-AI
-    • Use Copilot or ChatGPT to generate if/switch and method-structures.
-    • Ask AI to write unit-tests for my functions.
-
-
+- [ ] Chapter 4 AI
+  - Use Copilot or ChatGPT to generate if/switch and method-structures.
+  - Ask AI to write unit-tests for my functions.
 
 
 
-
-
-
-
-
-
-
-Chapter 5: OOP — Classes, Fields, Methods
+## Chapter 5: OOP — Classes, Fields, Methods
 Project 5A: Personal Library Manager
     • Goal: Learn object-oriented design, classes, methods, and properties.
     • Specs:
