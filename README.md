@@ -290,40 +290,38 @@ Training projects from ChatGPT
     - Static asset optimization.
 
 
+## Chapter 14: Interactive Web Components (Blazor)
+- [ ] Project 14A: Blazor To-Do List
+  - Goal: Build dynamic web UI with Blazor.
+  - Specs:
+    - Add, complete, and delete to-do items.
+    - State management via local storage or in-memory.
+    - Use components for task items and forms.
+
+- [ ] Chapter 14 AI
+  - AI-generate Blazor component structure and a simple character list.
+    - Blazor WASM or Server
+    - Character List Component
+    - Character Form Component
+    - XP progress bar
+    - LocalStorage service
+
+## Portfolioproject
+- [ ] Portfolioproject 2 - RPG Character Manager (Blazor)
+  - Syfte: Skapa och hantera karaktärer via webbläsare.
+  - Krav:
+    - Blazor WebAssembly-app
+    - Karaktärsmodell med namn, ras, klass, styrka, smidighet
+    - Form för att skapa ny karaktär
+    - Lista karaktärer med filter
+    - ProgressBar för XP
+    - LocalStorage för spara/läsa lokalt
+    - Möjlighet att synka mot WebAPI
+  - Teknik: Blazor WASM, C#, LocalStorage, ASP.NET API
+  - Portfolio-mervärde: Modern frontend i .NET-miljö.
 
 
-
-Chapter 14: Interactive Web Components (Blazor)
-Project 14: Blazor To-Do List
-    • Goal: Build dynamic web UI with Blazor.
-    • Specs:
-        ◦ Add, complete, and delete to-do items.
-        ◦ State management via local storage or in-memory.
-        ◦ Use components for task items and forms.
-
-AI
-AI-generate Blazor component structure and a simple character list.
-    • Blazor WASM or Server
-    • Character List Component
-    • Character Form Component
-    • XP progress bar
-    • LocalStorage service
-
-
-📁 RPG Character Manager (Blazor) - Portfolioproject
-Syfte: Skapa och hantera karaktärer via webbläsare.
-Krav:
-    • Blazor WebAssembly-app
-    • Karaktärsmodell med namn, ras, klass, styrka, smidighet
-    • Form för att skapa ny karaktär
-    • Lista karaktärer med filter
-    • ProgressBar för XP
-    • LocalStorage för spara/läsa lokalt
-    • Möjlighet att synka mot WebAPI
-Teknik: Blazor WASM, C#, LocalStorage, ASP.NET API
-Portfolio-mervärde: Modern frontend i .NET-miljö.
-
-Chapter 15: Web Services
+## Chapter 15: Web Services
 Project 15: Weather Forecast API
     • Goal: Create and consume a REST web service.
     • Specs:
