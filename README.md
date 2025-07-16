@@ -11,7 +11,7 @@ Training projects from ChatGPT
      - Run via terminal/command line.  
      
 
-- [ ] Projekt 1B: ”Hello Adventurer” 
+- [ ] Project 1B: ”Hello Adventurer” 
    - Goal: Make a simple "Hello, adventurer!" program that outputs a name and a randomly generated starting attribute.
    - Specs:
      - Ask for adventurer's name.
@@ -29,7 +29,7 @@ Training projects from ChatGPT
     - Display hints (higher/lower).
     - Track number of attempts and display them at the end.
 
-- [ ] Projekt 2B
+- [ ] Project 2B
     - Goal: Create a program that takes input from the user and performs simple calculations, e.g. HP = STR × 10.
     - Specs:
       - Prompt user for character's strength.
@@ -57,7 +57,7 @@ Training projects from ChatGPT
       - Validate division by zero.
       - Menu med while-loop
 
-- [ ] Projekt 3B
+- [ ] Project 3B
     - Goal: Build a simple menu with switch-case allowing the user to choose between different adventures.
     - Specs:
       - Present options like:
@@ -81,7 +81,7 @@ Training projects from ChatGPT
     - Function to calculate tip and total.
     - Unit tests to verify calculation function.
 
-- [ ] Projekt 4B
+- [ ] Project 4B
   - Goal: Write functions to create characters, roll dice (D20, D6 etc.), and calculate battle points.
   - Specs:
     - Function for dice rolls: RollDice(int sides)
@@ -102,7 +102,7 @@ Training projects from ChatGPT
     - Add, list, and remove books from a collection.
     - Use a console menu to navigate actions.
 
-- [ ] Projekt 5B
+- [ ] Project 5B
   - Goal: Define classes for Character, Monster, and Item.
   - Specs:
     - Character class: Name, HP, Attack, Defense
@@ -134,7 +134,7 @@ Training projects from ChatGPT
     - Interface IAccountOperations.
     - Raise events on low balance or large withdrawals.
 
-- [ ] Projekt 6B
+- [ ] Project 6B
   - Goal: Create an interface IAttackable implemented by both Character and Monster.
   - Specs:
     - Interface IAttackable with TakeDamage(int amount)
@@ -152,7 +152,7 @@ Training projects from ChatGPT
     - Publish to a local NuGet feed.
     - Consume from a console app.
 
-- [ ] Projekt 7B
+- [ ] Project 7B
   - Create a simple NuGet package with your dice-rolling function.
     - Class library DiceUtility
     - Method RollDice(int sides)
@@ -160,42 +160,23 @@ Training projects from ChatGPT
 
 
 ## Chapter 8: Common .NET Types
-Project 8: Contact Directory
-    • Goal: Work with collections, string manipulations, pattern matching.
-    • Specs:
-        ◦ Add, search, and list contacts.
-        ◦ Validate email and phone formats with regex.
-        ◦ Display contacts alphabetically.
+- [ ] Project 8A: Contact Directory
+  - Goal: Work with collections, string manipulations, pattern matching.
+  - Specs:
+    - Add, search, and list contacts.
+    - Validate email and phone formats with regex.
+    - Display contacts alphabetically.
 
-Projekt: 
-Handle and format dates for an adventure schedule. 
-    • Use DateTime to store quest start times.
-    • Display formatted schedule: "Quest 'Dragon Hunt' starts at 2025-07-16 14:00"
+- [ ] Project 8B
+  - Handle and format dates for an adventure schedule.
+    - Use DateTime to store quest start times.
+    - Display formatted schedule: "Quest 'Dragon Hunt' starts at 2025-07-16 14:00"
 
-AI
-Använd AI för att skriva DateTime-manipulationer och string-funktioner
-
-
+- [ ] Chapter 8 AI
+  - Use AI to write DateTime-manipulations and string-functions
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter 9: Files, Streams, and Serialization
+## Chapter 9: Files, Streams, and Serialization
 Project 9: Logbook Manager
     • Goal: File I/O, text encoding, JSON serialization.
     • Specs:
