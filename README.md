@@ -126,35 +126,25 @@ Training projects from ChatGPT
 
 
 ## Chapter 6: Inheritance and Interfaces
-Project 6A: Banking System Simulation
-    • Goal: Implement interfaces, inheritance, and events.
-    • Specs:
-        ◦ Base Account class (Deposit, Withdraw, Balance).
-        ◦ Derived classes: SavingsAccount, CheckingAccount.
-        ◦ Interface IAccountOperations.
-        ◦ Raise events on low balance or large withdrawals.
+- [ ] Project 6A: Banking System Simulation
+  - Goal: Implement interfaces, inheritance, and events.
+  - Specs:
+    - Base Account class (Deposit, Withdraw, Balance).
+    - Derived classes: SavingsAccount, CheckingAccount.
+    - Interface IAccountOperations.
+    - Raise events on low balance or large withdrawals.
 
-Projekt 6B
-Goal: Create an interface IAttackable implemented by both Character and Monster.
-Specs:
-    • Interface IAttackable with TakeDamage(int amount)
-    • Both Character and Monster implement it.
+- [ ] Projekt 6B
+  - Goal: Create an interface IAttackable implemented by both Character and Monster.
+  - Specs:
+    - Interface IAttackable with TakeDamage(int amount)
+    - Both Character and Monster implement it.
 
-AI
-AI-generera klasser för Hero, Enemy och NPC med egenskaper och metoder
-
-
+- [ ] Chapter 6 AI
+  - Let AI generate the classes Hero, Enemy and NPC with attributes and methods.
 
 
-
-
-
-
-
-
-
-
-Chapter 7: Packaging and Distribution
+## Chapter 7: Packaging and Distribution
 Project 7: Math Utilities Library
     • Goal: Build a reusable class library, publish as NuGet package.
     • Specs:
