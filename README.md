@@ -204,34 +204,21 @@ Training projects from ChatGPT
 
 
 ## Chapter 10: Entity Framework Core
-Project 10: Northwind Orders Console
-    • Goal: Use EF Core to query and update a SQLite database.
-    • Specs:
-        ◦ Load Northwind sample DB.
-        ◦ List customer orders.
-        ◦ Add new orders.
-        ◦ Filter orders by date and status.
+- [ ] Project 10A: Northwind Orders Console
+  - Goal: Use EF Core to query and update a SQLite database.
+  - Specs:
+    - Load Northwind sample DB.
+    - List customer orders.
+    - Add new orders.
+    - Filter orders by date and status.
 
-Projekt: Create a SQLite database with characters and items. 
-    • EF Core models: Character, Item
-    • Relationships: Character has a List<Item>
-    • Migrations and database creation
-
-
+- [ ] Project 10B: Create a SQLite database with characters and items.
+  - EF Core models: Character, Item
+  - Relationships: Character has a List`<Item>`
+  - Migrations and database creation
 
 
-
-
-
-
-
-
-
-
-
-
-
-Chapter 11: LINQ Data Queries
+## Chapter 11: LINQ Data Queries
 Project 11: Movie Rating App
     • Goal: Practice LINQ operations.
     • Specs:
