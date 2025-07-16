@@ -281,28 +281,13 @@ Training projects from ChatGPT
 
 
 ## Chapter 13: ASP.NET Core Websites
-Project 13: Employee Directory Website
-    • Goal: ASP.NET Core MVC/Blazor SSR for listing employees.
-    • Specs:
-        ◦ Employee profiles (name, position, photo).
-        ◦ Search by department.
-        ◦ Blazor Server-Side Rendering for pages.
-        ◦ Static asset optimization.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ] Project 13A: Employee Directory Website
+  - Goal: ASP.NET Core MVC/Blazor SSR for listing employees.
+  - Specs:
+    - Employee profiles (name, position, photo).
+    - Search by department.
+    - Blazor Server-Side Rendering for pages.
+    - Static asset optimization.
 
 
 
