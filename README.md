@@ -20,33 +20,33 @@ Training projects from ChatGPT
 
 
 ## Chapter 2: Speaking C#
-Project 2A: Number Guessing Game
-    • Goal: Practice variables, data types, console input/output, and conditionals.
-    • Specs:
-        ◦ Program generates a random number (1–100).
-        ◦ User guesses until correct.
-        ◦ Display hints (higher/lower).
-        ◦ Track number of attempts and display them at the end.
+- [ ] Project 2A: Number Guessing Game
+  - Goal: Practice variables, data types, console input/output, and conditionals.
+  - Specs:
+    - Program generates a random number (1–100).
+    - User guesses until correct.
+    - Display hints (higher/lower).
+    - Track number of attempts and display them at the end.
 
-Projekt 2B
-    • Goal: Create a program that takes input from the user and performs simple calculations, e.g. HP = STR × 10.
-    • Specs:
-        ◦ Prompt user for character's strength.
-        ◦ Calculate hit points: HP = STR * 10.
-        ◦ Display result.
+- [ ] Projekt 2B
+    - Goal: Create a program that takes input from the user and performs simple calculations, e.g. HP = STR × 10.
+    - Specs:
+      - Prompt user for character's strength.
+      - Calculate hit points: HP = STR * 10.
+      - Display result.
 
-Project 2C
-    • Goal:Check the probability of succeeding at different target values (difficulties) if difficulty levels are 2D6, 3D6, 4D6, etc. Display a nice console table. 
-    • Specs: 
-    • Simulate rolling n dice (2D6, 3D6…)
-    • For each possible target value, calculate probability of rolling equal to or higher than that value.
-    • Display as a formatted table in console using Console.WriteLine.
+- [ ] Project 2C
+  - Goal:Check the probability of succeeding at different target values (difficulties) if difficulty levels are 2D6, 3D6, 4D6, etc. Display a nice console table.
+  - Specs:
+    - Simulate rolling n dice (2D6, 3D6…)
+    - For each possible target value, calculate probability of rolling equal to or higher than that value.
+    - Display as a formatted table in console using Console.WriteLine.
 
-AI
-    • Create a free OpenAI account
+- [ ] AI
+    - Create a free OpenAI account
 
 
-Chapter 3: Flow, Type Conversion, and Exception Handling
+## Chapter 3: Flow, Type Conversion, and Exception Handling
 Project 3A: Simple Console Calculator
     • Goal: Practice type conversion, switch statements, error handling.
     • Specs:
