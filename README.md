@@ -177,38 +177,33 @@ Training projects from ChatGPT
 
 
 ## Chapter 9: Files, Streams, and Serialization
-Project 9: Logbook Manager
-    • Goal: File I/O, text encoding, JSON serialization.
-    • Specs:
-        ◦ Save logs to a text file.
-        ◦ Serialize log entries to JSON.
-        ◦ Load logs from file at startup.
+- [ ] Project 9A: Logbook Manager
+  - Goal: File I/O, text encoding, JSON serialization.
+  - Specs:
+    - Save logs to a text file.
+    - Serialize log entries to JSON.
+    - Load logs from file at startup.
 
-Projekt: Save and load characters to/from JSON. 
-    • Character class with Name, Level, Attributes
-    • Serialize list to JSON using System.Text.Json
-    • Load on startup
+- [ ] Project 9B: Save and load characters to/from JSON.
+  - Character class with Name, Level, Attributes
+  - Serialize list to JSON using System.Text.Json
+  - Load on startup
 
-Bonus Project A: Budget Tracker App
-    • Chapters: 2, 3, 4, 5, 9
-    • Console app for tracking expenses:
-        ◦ Categories, amounts.
-        ◦ Persist data to JSON.
-        ◦ Show total expenses per category.
-        ◦ LINQ for aggregations.
-AI
-Låt AI skapa JSON-schema och serialiseringsmetoder
+- [ ] Chapter 9 AI
+  - Let AI create JSON-schema and serialization-methods.
 
 
+## Bonus Project
+- [ ] Bonus Project A: Budget Tracker App
+  - Chapters: 2, 3, 4, 5, 9
+  - Console app for tracking expenses:
+    - Categories, amounts.
+    - Persist data to JSON.
+    - Show total expenses per category.
+    - LINQ for aggregations.
 
 
-
-
-
-
-
-
-Chapter 10: Entity Framework Core
+## Chapter 10: Entity Framework Core
 Project 10: Northwind Orders Console
     • Goal: Use EF Core to query and update a SQLite database.
     • Specs:
