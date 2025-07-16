@@ -95,37 +95,37 @@ Training projects from ChatGPT
 
 
 ## Chapter 5: OOP — Classes, Fields, Methods
-Project 5A: Personal Library Manager
-    • Goal: Learn object-oriented design, classes, methods, and properties.
-    • Specs:
-        ◦ Define a Book class (Title, Author, Year, ISBN).
-        ◦ Add, list, and remove books from a collection.
-        ◦ Use a console menu to navigate actions.
+- [ ] Project 5A: Personal Library Manager
+  - Goal: Learn object-oriented design, classes, methods, and properties.
+  - Specs:
+    - Define a Book class (Title, Author, Year, ISBN).
+    - Add, list, and remove books from a collection.
+    - Use a console menu to navigate actions.
 
-Projekt 5B
-    • Goal: Define classes for Character, Monster, and Item.
-    • Specs:
-        ◦ Character class: Name, HP, Attack, Defense
-        ◦ Monster class inherits from Character
-        ◦ Item class: Name, Effect, Value
-        ◦ Add a method Attack(Monster m) or similar.
+- [ ] Projekt 5B
+  - Goal: Define classes for Character, Monster, and Item.
+  - Specs:
+    - Character class: Name, HP, Attack, Defense
+    - Monster class inherits from Character
+    - Item class: Name, Effect, Value
+    - Add a method Attack(Monster m) or similar.
 
-Project 5C
-Goal: Textbaserat Memory-spel
-Specs:
-    • List words in random order.
-    • Match pairs by index.
-    • Timer and score.
-    • List of string pairs.
-    • Shuffle and display numbered positions.
-    • Player selects two numbers.
-    • Check for match.
+- [ ] Project 5C
+  - Goal: Text-based Memory-game
+  - Specs:
+    - List words in random order.
+    - Match pairs by index.
+    - Timer and score.
+    - List of string pairs.
+    - Shuffle and display numbered positions.
+    - Player selects two numbers.
+    - Check for match.
+
+- [ ] Chapter 5 AI
+  - Use Copiliot or ChatGPT to generate a simple quest-class in C#
 
 
-AI
-    • Us Copiliot or ChatGPT to generate a simple quest-class in C#
-
-Chapter 6: Inheritance and Interfaces
+## Chapter 6: Inheritance and Interfaces
 Project 6A: Banking System Simulation
     • Goal: Implement interfaces, inheritance, and events.
     • Specs:
