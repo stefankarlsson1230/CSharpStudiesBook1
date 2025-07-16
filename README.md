@@ -42,41 +42,35 @@ Training projects from ChatGPT
     - For each possible target value, calculate probability of rolling equal to or higher than that value.
     - Display as a formatted table in console using Console.WriteLine.
 
-- [ ] AI
+- [ ] Chapter 2 AI
     - Create a free OpenAI account
 
 
 ## Chapter 3: Flow, Type Conversion, and Exception Handling
-Project 3A: Simple Console Calculator
-    • Goal: Practice type conversion, switch statements, error handling.
-    • Specs:
-        ◦ Accept two numbers and an operator.
-        ◦ Support +, -, *, /.
-        ◦ Use try-catch for invalid inputs.
-        ◦ Validate division by zero.
-        ◦ Menu med while-loop
+- [ ] Project 3A: Simple Console Calculator
+    - Goal: Practice type conversion, switch statements, error handling.
+    - Specs:
+      - Accept two numbers and an operator.
+      - Support +, -, *, /.
+      - Use try-catch for invalid inputs.
+      - Validate division by zero.
+      - Menu med while-loop
 
-Projekt 3B
-    • Goal: Build a simple menu with switch-case allowing the user to choose between different adventures.
-    • Specs:  
-        ◦ Present options like:
-1. Go to the forest
-2. Enter the dungeon
-3. Visit the market
-        ◦ Use while loop for menu repetition.
-        ◦ Use switch to handle choice.
+- [ ] Projekt 3B
+    - Goal: Build a simple menu with switch-case allowing the user to choose between different adventures.
+    - Specs:
+      - Present options like:
+      -     1. Go to the forest
+      -     2. Enter the dungeon
+      -     3. Visit the market
+     - Use while loop for menu repetition.
+     - Use switch to handle choice.
 
-AI
-    • Test OpenAI Playground
-
-
+- [ ] Chapter 3 AI
+  - Test OpenAI Playground
 
 
-
-
-
-
-Chapter 4: Functions, Debugging, and Unit Testing
+## Chapter 4: Functions, Debugging, and Unit Testing
 Project 4A: Tip Calculator
     • Goal: Use functions for code reuse, practice debugging.
     • Specs:
