@@ -245,7 +245,7 @@ Training projects from ChatGPT
 
 ## Portfolioproject
 
-- [ ] QuestLog WebAPI - Portfolioproject
+- [ ] Portfolioproject 1 - QuestLog WebAPI
   - Purpose: REST API to manage RPG quests.
   - Requirements:
     - CRUD endpoints: GET /quests, GET /quests/{id}, POST, PUT, DELETE
@@ -260,41 +260,27 @@ Training projects from ChatGPT
 
 
 ## Chapter 12: ASP.NET Core Web Development Basics
-Project 12: Product Catalog API
-    • Goal: Create a Minimal API for products.
-    • Specs:
-        ◦ CRUD endpoints for products.
-        ◦ GET by category.
-        ◦ POST new product.
-        ◦ Validate product data.
-          
-Unit converter WebAPI 
-    • Minimal API with endpoints for cm→m, kg→lb etc
-    • Swagger documentation 
-    • Minimal API project.
-    • GET endpoints like /convert/cm-to-m/{value}
-    • Use query parameters for flexibility.
+- [ ] Project 12A: Product Catalog API
+  - Goal: Create a Minimal API for products.
+  - Specs:
+    - CRUD endpoints for products.
+    - GET by category.
+    - POST new product.
+    - Validate product data.
 
-AI
-Använd AI för att bygga ett första Minimal API, inklusive routing och endpoint-signaturer
+- [ ] Project 12B
+  - Unit converter WebAPI
+    - Minimal API with endpoints for cm→m, kg→lb etc
+    - Swagger documentation
+    - Minimal API project.
+    - GET endpoints like /convert/cm-to-m/{value}
+    - Use query parameters for flexibility.
 
-
-
+- [ ] Chapter 12 AI
+  - Use AI to build a first Minimal API, including routing and endpoint-signatures.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter 13: ASP.NET Core Websites
+## Chapter 13: ASP.NET Core Websites
 Project 13: Employee Directory Website
     • Goal: ASP.NET Core MVC/Blazor SSR for listing employees.
     • Specs:
