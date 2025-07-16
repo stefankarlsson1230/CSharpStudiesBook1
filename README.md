@@ -219,65 +219,47 @@ Training projects from ChatGPT
 
 
 ## Chapter 11: LINQ Data Queries
-Project 11: Movie Rating App
-    • Goal: Practice LINQ operations.
-    • Specs:
-        ◦ CRUD för filmer
-        ◦ Manage movie records (title, genre, rating).
-        ◦ Filter, sort, group, and count movies.
-        ◦ Filtrera på genre och betyg
-        ◦ Average ratings by genre.
+- [ ] Project 11A: Movie Rating App
+  - Goal: Practice LINQ operations.
+  - Specs:
+    - CRUD for movies
+    - Manage movie records (title, genre, rating).
+    - Filter, sort, group, and count movies.
+    - Filter on genre and rating
+    - Average ratings by genre.
 
-Projekt: Find the strongest character, sum all items, etc. 
-    • Use LINQ to sort characters by strength.
-    • Aggregate total value of items.
-    • Filter items by type.
+- [ ] Projekt 11B: Find the strongest character, sum all items, etc.
+  - Use LINQ to sort characters by strength.
+  - Aggregate total value of items.
+  - Filter items by type.
 
-Contact Manager med List och LINQ
-    • Add, delete, and search contacts
-    • Save/load to JSON 
-    • Class Contact
-    • List<Contact>
-    • LINQ for search and filtering.
+- [ ] Project 11C: Contact Manager with List och LINQ
+  - Add, delete, and search contacts
+  - Save/load to JSON
+  - Class Contact
+  - List`<Contact>`
+  - LINQ for search and filtering.
       
-AI
-AI-generera EF Core-migrationskod och LINQ-queryexempel
+- [ ] Chapter 11 AI
+  - AI-generate EF Core-migrationcode and LINQ-queryexample
 
-QuestLog WebAPI - Portfolioproject
-Purpose: REST API to manage RPG quests.
-Requirements: 
-    • CRUD endpoints: GET /quests, GET /quests/{id}, POST, PUT, DELETE
-    • Quest model with Name, Description, Difficulty, XP, Status
-    • Database via EF Core + SQLite
-    • Model validation via DataAnnotations
-    • Swagger/OpenAPI
-    • LINQ filtering (e.g. quests per status)
-Teknik: ASP.NET Core WebAPI, EF Core, SQLite, LINQ, Swagger
-Portfolio-mervärde: Backend, REST-API, databas och validering.
-AI: använd AI för controller-metoder, DTO:er och API-konventioner
+## Portfolioproject
 
-
-
-
+- [ ] QuestLog WebAPI - Portfolioproject
+  - Purpose: REST API to manage RPG quests.
+  - Requirements:
+    - CRUD endpoints: GET /quests, GET /quests/{id}, POST, PUT, DELETE
+    - Quest model with Name, Description, Difficulty, XP, Status
+    - Database via EF Core + SQLite
+    - Model validation via DataAnnotations
+    - Swagger/OpenAPI
+    - LINQ filtering (e.g. quests per status)
+  - Teknik: ASP.NET Core WebAPI, EF Core, SQLite, LINQ, Swagger
+  - Portfolio-mervärde: Backend, REST-API, databas och validering.
+  - AI: använd AI för controller-metoder, DTO:er och API-konventioner
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chapter 12: ASP.NET Core Web Development Basics
+## Chapter 12: ASP.NET Core Web Development Basics
 Project 12: Product Catalog API
     • Goal: Create a Minimal API for products.
     • Specs:
