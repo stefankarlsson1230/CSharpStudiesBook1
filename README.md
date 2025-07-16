@@ -322,34 +322,36 @@ Training projects from ChatGPT
 
 
 ## Chapter 15: Web Services
-Project 15: Weather Forecast API
-    • Goal: Create and consume a REST web service.
-    • Specs:
-        ◦ ASP.NET Core Minimal API returning fake weather data.
-        ◦ Swagger/OpenAPI documentation.
-        ◦ Console client app to call the API using HttpClient.
+- [ ] Project 15A: Weather Forecast API
+  - Goal: Create and consume a REST web service.
+  - Specs:
+    - ASP.NET Core Minimal API returning fake weather data.
+    - Swagger/OpenAPI documentation.
+    - Console client app to call the API using HttpClient.
 
-Projekt: Build a web interface for your character generator. 
+- [ ] Project 15B
+  - Build a web interface for your character generator. 
 
-Bonus Project B: Chat Server
-    • Chapters: 6, 13, 15
-    • ASP.NET Core SignalR WebSocket service.
-        ◦ Real-time message delivery.
-        ◦ Web and console clients.
-        ◦ User connection events.
+## Bonusproject
+- [ ] Bonus Project B: Chat Server
+  - Chapters: 6, 13, 15
+    - ASP.NET Core SignalR WebSocket service.
+      - Real-time message delivery.
+      - Web and console clients.
+      - User connection events.
 
-📁 RPG Inventory System (Unity + WebAPI) - Portfolioproject
-Purpose: Inventory system in a game environment connected to a backend.
-Requirements:
-    • Unity project with inventory UI
-    • Item class: Name, Type, Value
-    • Add/remove items
-    • Save inventory via ASP.NET Core WebAPI
-    • JSON serialization
-    • Console admin app to create item templates
-
-Teknik: Unity C#, ASP.NET Core WebAPI, JSON
-Portfolio-mervärde: Full integration Unity ↔ .NET backend.
+## Portfolioproject
+- [ ] Portfolioproject 3 - RPG Inventory System (Unity + WebAPI)
+  - Purpose: Inventory system in a game environment connected to a backend.
+  - Requirements:
+    - Unity project with inventory UI
+    - Item class: Name, Type, Value
+    - Add/remove items
+    - Save inventory via ASP.NET Core WebAPI
+    - JSON serialization
+    - Console admin app to create item templates
+  - Teknik: Unity C#, ASP.NET Core WebAPI, JSON
+  - Portfolio-mervärde: Full integration Unity ↔ .NET backend.
 
 
 
