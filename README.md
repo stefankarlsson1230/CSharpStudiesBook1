@@ -145,34 +145,21 @@ Training projects from ChatGPT
 
 
 ## Chapter 7: Packaging and Distribution
-Project 7: Math Utilities Library
-    • Goal: Build a reusable class library, publish as NuGet package.
-    • Specs:
-        ◦ Class library with math utilities: factorial, GCD, LCM.
-        ◦ Publish to a local NuGet feed.
-        ◦ Consume from a console app.
+- [ ] Project 7A: Math Utilities Library
+  - Goal: Build a reusable class library, publish as NuGet package.
+  - Specs:
+    - Class library with math utilities: factorial, GCD, LCM.
+    - Publish to a local NuGet feed.
+    - Consume from a console app.
 
-Projekt: 
-Create a simple NuGet package with your dice-rolling function. 
-    • Class library DiceUtility
-    • Method RollDice(int sides)
-    • Package and publish locally.
-
-
+- [ ] Projekt 7B
+  - Create a simple NuGet package with your dice-rolling function.
+    - Class library DiceUtility
+    - Method RollDice(int sides)
+    - Package and publish locally.
 
 
-
-
-
-
-
-
-
-
-
-
-
-Chapter 8: Common .NET Types
+## Chapter 8: Common .NET Types
 Project 8: Contact Directory
     • Goal: Work with collections, string manipulations, pattern matching.
     • Specs:
