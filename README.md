@@ -2,14 +2,18 @@
 Training projects from ChatGPT
 
 ## Chapter 1: Hello, C#! Welcome, .NET!
-- [ ] Project 1A: Console "Hello World" Customizer
+- [x] Project 1A: Console "Hello World" Customizer
    - Goal: Build a minimal console app that asks for user name and greets them.
    - Skills: Setting up projects, running code in Visual Studio/VS Code.
    - Specs:
      - User inputs their name.
      - App displays “Hello, {name}! Welcome to .NET 9!”
-     - Run via terminal/command line.  
+     - Run via terminal/command line.
+   - *Comments*
+     - *I can run the program from terminal with `dotnet run`*
+     - *Need to get into the habit of using a `GlobalUsing.cs` file containing all the libraries I'm using in my project. I could also do it by adding a ItemGroup/Using in the project-file, but I have a hard time remembering the way to write this.*  
      
+
 
 - [ ] Project 1B: ”Hello Adventurer” 
    - Goal: Make a simple "Hello, adventurer!" program that outputs a name and a randomly generated starting attribute.
