@@ -10,8 +10,8 @@ Training projects from ChatGPT
      - App displays “Hello, {name}! Welcome to .NET 9!”
      - Run via terminal/command line.
    - *Comments*
-     - *I can run the program from terminal with `dotnet run`*
-     - *Need to get into the habit of using a `GlobalUsing.cs` file containing all the libraries I'm using in my project. I could also do it by adding a ItemGroup/Using in the project-file, but I have a hard time remembering the way to write this.*  
+     - *I run the program from terminal with `dotnet run` while inside the project folder*
+     - *I Need to get into the habit of using a `GlobalUsing.cs` file containing all the libraries I'm using in my project. I could also do it by adding a ItemGroup/Using in the project-file, but I have a hard time remembering the way to write this.*  
      
 
 
