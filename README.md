@@ -15,13 +15,16 @@ Training projects from ChatGPT
      
 
 
-- [ ] Project 1B: ”Hello Adventurer” 
+- [x] Project 1B: ”Hello Adventurer” 
    - Goal: Make a simple "Hello, adventurer!" program that outputs a name and a randomly generated starting attribute.
    - Specs:
      - Ask for adventurer's name.
      - Randomly assign a starting Strength/Intelligence/Dexterity attribute (1–20).
      - Display a message: "Hello, {name} the adventurer! You start with {attribute} strength."
      - Could use Random class.
+   - *Comments*
+     - *To include all three attributes I used the longer text "Hello, \{name\} the adventurer! You start with \{strength\} Strength, \{intelligence\} Intelligence and \{dexterity\} Dexterity."*
+     - *`Random.Next()` created the three values between 1 and 20*
 
 
 ## Chapter 2: Speaking C#
