@@ -6,7 +6,7 @@ Training projects from ChatGPT
 - [Chapter 2](#chapter-2-speaking-c)
 - [Chapter 3](#chapter-3-flow-type-conversion-and-exception-handling)
 - [Chapter 4](#chapter-4-functions-debugging-and-unit-testing)
-- [Chapter 5](#chapter-5-oop-classes-fields-methods)
+- [Chapter 5](#chapter-5-oop--classes-fields-methods)
 - [Chapter 6](#chapter-6-inheritance-and-interfaces)
 - [Chapter 7](#chapter-7-packaging-and-distribution)
 - [Chapter 8](#chapter-8-common-net-types)
