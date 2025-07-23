@@ -11,7 +11,20 @@ Training projects from ChatGPT
 - [Chapter 7](#chapter-7-packaging-and-distribution)
 - [Chapter 8](#chapter-8-common-net-types)
 - [Chapter 9](#chapter-9-files-streams-and-serialization)
-- []()
+- [Bonus Project A](#bonus-project-a)
+- [Chapter 10](#chapter-10-entity-framework-core)
+- [Chapter 11](#chapter-11-linq-data-queries)
+- [Portfolio Project 1](#portfolioproject-1)
+- [Chapter 12](#chapter-12-aspnet-core-web-development-basics)
+- [Chapter 13](#chapter-13-aspnet-core-websites)
+- [Chapter 14](#chapter-14-interactive-web-components-blazor)
+- [Portfolio Project 2](#portfolioproject-2)
+- [Chapter 15](#chapter-15-web-services)
+- [Bonus Project B](#bonusproject-b)
+- [Portfolio Project 3](#portfolioproject-3)
+
+---
+
 ## Chapter 1: Hello, C#! Welcome, .NET!
 - [x] Project 1A: Console "Hello World" Customizer
    - Goal: Build a minimal console app that asks for user name and greets them.
