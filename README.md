@@ -77,7 +77,7 @@ Training projects from ChatGPT
       - Calculate hit points: HP = STR * 10.
       - Display result.
     - *Comments*
-    - *Used the same type of input check as in Project 2A.*
+      - *Used the same type of input check as in Project 2A.*
         ```
         while (!Int32.TryParse(ReadLine(), out str) || str < 1)
         {
