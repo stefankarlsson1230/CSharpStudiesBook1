@@ -1,6 +1,17 @@
 ﻿# Book 1 - C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals
 Training projects from ChatGPT
 
+## Index
+- [Chapter 1](#chapter-1-hello-c-welcome-net)
+- [Chapter 2](#chapter-2-speaking-c)
+- [Chapter 3](#chapter-3-flow-type-conversion-and-exception-handling)
+- [Chapter 4](#chapter-4-functions-debugging-and-unit-testing)
+- [Chapter 5](#chapter-5-oop-classes-fields-methods)
+- [Chapter 6](#chapter-6-inheritance-and-interfaces)
+- [Chapter 7](#chapter-7-packaging-and-distribution)
+- [Chapter 8](#chapter-8-common-net-types)
+- []()
+- []()
 ## Chapter 1: Hello, C#! Welcome, .NET!
 - [x] Project 1A: Console "Hello World" Customizer
    - Goal: Build a minimal console app that asks for user name and greets them.
