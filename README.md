@@ -10,7 +10,7 @@ Training projects from ChatGPT
 - [Chapter 6](#chapter-6-inheritance-and-interfaces)
 - [Chapter 7](#chapter-7-packaging-and-distribution)
 - [Chapter 8](#chapter-8-common-net-types)
-- []()
+- [Chapter 9](#chapter-9-files-streams-and-serialization)
 - []()
 ## Chapter 1: Hello, C#! Welcome, .NET!
 - [x] Project 1A: Console "Hello World" Customizer
@@ -211,7 +211,7 @@ Training projects from ChatGPT
   - Let AI create JSON-schema and serialization-methods.
 
 
-## Bonus Project
+## Bonus Project A
 - [ ] Bonus Project A: Budget Tracker App
   - Chapters: 2, 3, 4, 5, 9
   - Console app for tracking expenses:
@@ -261,7 +261,7 @@ Training projects from ChatGPT
 - [ ] Chapter 11 AI
   - AI-generate EF Core-migrationcode and LINQ-queryexample
 
-## Portfolioproject
+## Portfolioproject 1
 
 - [ ] Portfolioproject 1 - QuestLog WebAPI
   - Purpose: REST API to manage RPG quests.
@@ -324,7 +324,7 @@ Training projects from ChatGPT
     - XP progress bar
     - LocalStorage service
 
-## Portfolioproject
+## Portfolioproject 2
 - [ ] Portfolioproject 2 - RPG Character Manager (Blazor)
   - Syfte: Skapa och hantera karaktärer via webbläsare.
   - Krav:
@@ -350,7 +350,7 @@ Training projects from ChatGPT
 - [ ] Project 15B
   - Build a web interface for your character generator. 
 
-## Bonusproject
+## Bonusproject B
 - [ ] Bonus Project B: Chat Server
   - Chapters: 6, 13, 15
     - ASP.NET Core SignalR WebSocket service.
@@ -358,7 +358,7 @@ Training projects from ChatGPT
       - Web and console clients.
       - User connection events.
 
-## Portfolioproject
+## Portfolioproject 3
 - [ ] Portfolioproject 3 - RPG Inventory System (Unity + WebAPI)
   - Purpose: Inventory system in a game environment connected to a backend.
   - Requirements:
