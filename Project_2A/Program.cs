@@ -8,7 +8,6 @@
 
 Random random = new();
 int number = random.Next(1, 101);
-string? input = "";
 int guess = 0;
 int guesses = 0;
 
