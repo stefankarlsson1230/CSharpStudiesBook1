@@ -62,20 +62,29 @@ Training projects from ChatGPT
   - *Comments*
     - *I used a while-loop to keep guessing*
     - *To make sure the user guessed numbers between 1 and 100, I used TryParse inside the while loop*
-    ```
-    if(!Int32.TryParse(ReadLine(), out guess) || guess < 1 || guess > 100)
-    {
-        WriteLine("Guess a number between 1 and 100 ");
-        continue;
-    }
-    ``` 
+        ```
+        if(!Int32.TryParse(ReadLine(), out guess) || guess < 1 || guess > 100)
+        {
+            WriteLine("Guess a number between 1 and 100 ");
+            continue;
+        }
+        ``` 
     
-- [ ] Project 2B
+- [x] Project 2B
     - Goal: Create a program that takes input from the user and performs simple calculations, e.g. HP = STR × 10.
     - Specs:
       - Prompt user for character's strength.
       - Calculate hit points: HP = STR * 10.
       - Display result.
+    - *Comments*
+    - *Used the same type of input check as in Project 2A.*
+        ```
+        while (!Int32.TryParse(ReadLine(), out str) || str < 1)
+        {
+            Write("Please enter a positiv integer value!");
+        }
+        ```
+
 
 - [ ] Project 2C
   - Goal:Check the probability of succeeding at different target values (difficulties) if difficulty levels are 2D6, 3D6, 4D6, etc. Display a nice console table.
