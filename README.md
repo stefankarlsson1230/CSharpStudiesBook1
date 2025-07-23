@@ -52,14 +52,24 @@ Training projects from ChatGPT
 
 
 ## Chapter 2: Speaking C#
-- [ ] Project 2A: Number Guessing Game
+- [x] Project 2A: Number Guessing Game
   - Goal: Practice variables, data types, console input/output, and conditionals.
   - Specs:
     - Program generates a random number (1–100).
     - User guesses until correct.
     - Display hints (higher/lower).
     - Track number of attempts and display them at the end.
-
+  - *Comments*
+    - *I used a while-loop to keep guessing*
+    - *To make sure the user guessed numbers between 1 and 100, I used TryParse inside the while loop*
+    ```
+    if(!Int32.TryParse(ReadLine(), out guess) || guess < 1 || guess > 100)
+    {
+        WriteLine("Guess a number between 1 and 100 ");
+        continue;
+    }
+    ``` 
+    
 - [ ] Project 2B
     - Goal: Create a program that takes input from the user and performs simple calculations, e.g. HP = STR × 10.
     - Specs:
