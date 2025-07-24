@@ -100,9 +100,10 @@ Training projects from ChatGPT
         Write($"{successes/10000.0f, 10:##0.00%}");
         ```
     - *If anyone is interested, these are the results:*
-    ![Success Chances](images/SuccessChances.PNG)
+    
+      ![Success Chances](images/SuccessChances.PNG)
       
-- [ ] Chapter 2 AI
+- [x] Chapter 2 AI
     - Create a free OpenAI account
 
 
