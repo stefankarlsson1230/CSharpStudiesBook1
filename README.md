@@ -86,13 +86,22 @@ Training projects from ChatGPT
         ```
 
 
-- [ ] Project 2C
-  - Goal:Check the probability of succeeding at different target values (difficulties) if difficulty levels are 2D6, 3D6, 4D6, etc. Display a nice console table.
+- [x] Project 2C
+  - Goal:Check the probability of succeeding at different target values if difficulty levels are 2D6, 3D6, 4D6, etc. Display a nice console table.
   - Specs:
     - Simulate rolling n dice (2D6, 3D6…)
-    - For each possible target value, calculate probability of rolling equal to or higher than that value.
+    - For each possible target value, calculate probability of rolling equal to or lower than that value.
     - Display as a formatted table in console using Console.WriteLine.
-
+  - *Comments*
+    - *This was something I wanted to do for a tabletop roleplaying rulesystem I'm working on*
+    - *I didn't do any statistical calculations, insted I let the dices roll 10000 times for each case*
+    - *I had some problems getting my head around the formatting system in the Console, but It's probably just because I'm a bit unfamiliar with it.*
+        ```
+        Write($"{successes/10000.0f, 10:##0.00%}");
+        ```
+    - *If anyone is interested, these are the results:*
+    ![Success Chances](images\SuccessChances.PNG)
+      
 - [ ] Chapter 2 AI
     - Create a free OpenAI account
 
